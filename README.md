@@ -1,3 +1,5 @@
+**Moved to something else, don't know when I'll get back to it.**
+
 # mediasoup_client
 
 A new flutter plugin project.
